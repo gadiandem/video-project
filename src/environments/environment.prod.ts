@@ -1,10 +1,12 @@
 export const environment = {
   production: true,
   firebase: {
-    apiKey: "AIzaSyASCxHgCSpmVnQwVbLCHATcns5fJQFdmpY",
-    authDomain: "clips-36548.firebaseapp.com",
-    projectId: "clips-36548",
-    storageBucket: "clips-36548.appspot.com",
-    appId: "1:798864185458:web:f93bd21de7f956bffc4aeb"
+    apiKey: "AIzaSyBD9SOU3vbBtrZ2ZQB3_VyTECkAiFXsDzQ",
+    authDomain: "video-project-7cad4.firebaseapp.com",
+    databaseURL: "https://video-project-7cad4-default-rtdb.asia-southeast1.firebasedatabase.app",
+    projectId: "video-project-7cad4",
+    storageBucket: "video-project-7cad4.appspot.com",
+    messagingSenderId: "117553343637",
+    appId: "1:117553343637:web:073fd47045f2ca78d9bf9c"
   }
 };
